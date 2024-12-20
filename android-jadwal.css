@@ -1,0 +1,35 @@
+.ticket-details p {
+    margin: 4px 0;
+    font-size: 14px;
+}
+.important-note {
+    background-color: rgb(107, 207, 207);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12x;
+    margin-top: 20px;
+}
+.button {
+    background-color: #369f9f;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+.container-jadwal {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border-radius: 80px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
