@@ -5,5 +5,5 @@
     //db
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
-    define('DB_PASS', 'S@suke12');
-    define('DB_NAME', 'mvc_mahasiswa');
+    define('DB_PASS', ''); 
+    define('DB_NAME', ''); 
