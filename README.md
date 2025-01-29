@@ -1,3 +1,3 @@
-Ferigo is a ship ticketing and booking software.
+Ferigo is a ship ticketing and booking application.
 
-Enjoy it
+
