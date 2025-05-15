@@ -2,10 +2,10 @@
     session_start();
     require 'functions/functions.php';
     require_once 'config.php';
-    if(!isset($_SESSION["login"])){
-      header('Location: '.BASEURL.'/page/pagelogin/login.php');
-      exit;
-    }
+    // if(!isset($_SESSION["login"])){
+    //   header('Location: '.BASEURL.'/page/pagelogin/login.php');
+    //   exit;
+    // }
     // if(isset($_SESSION['nickname'])){
     //   $sucsses = true;
     // }
