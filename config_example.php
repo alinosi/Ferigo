@@ -1,6 +1,6 @@
 <?php 
     // define menyimpan ('NAMA DEFINISI' , 'YANG DIDEFINISIKAN')
-    define('BASEURL', 'http://localhost/kuliah/ferigo');
+    define('BASEURL', 'http://server/ferigo');
 
     //db
     define('DB_HOST', 'localhost');
